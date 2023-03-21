@@ -7,3 +7,5 @@ git status
 git commit -m "first commit"
 git push --all
 
+
+git change 1
