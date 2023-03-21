@@ -1,1 +1,9 @@
 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
+
+git init
+git remote add origin _______________.git
+git add .
+git status
+git commit -m "first commit"
+git push --all
+
