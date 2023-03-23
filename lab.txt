@@ -1,13 +1,32 @@
 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
 
-git init
-git remote add origin _______________.git
-git add .
-git status
-git commit -m "first commit"
-git push --all
+git init  = initialization
+git remote add origin _______________.git    = add git url
+git add . = add folder to git
+git status  = git status 
+git commit -m "first commit" = commiting
+git push --all  = pushing code
 
 
-git change 1
-change 2
+Task1:
+use command of clone and then create a new branch and push it to the same repo
+REPO NAME -> TASK_1
+
+git clone git url = cloning the repo to folder
+cd reponame = open repo folder
+git branch <branch name> = creates new branch
+git checkout <branch name> = switched to branch 
+git add . = add folder to git
+git status  = git status 
+git commit -m "first commit" = commiting
+git push --all  = pushing code
+
+Task:2
+
+use git getch and create a new branch then - push the code
+REPO NAME -> TASK_2
+
+git checkout -b <branch name> = creates new branch and switch to it
+
+ 
 
