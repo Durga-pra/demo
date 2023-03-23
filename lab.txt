@@ -22,11 +22,20 @@ git commit -m "first commit" = commiting
 git push --all  = pushing code
 
 Task:2
-
 use git getch and create a new branch then - push the code
 REPO NAME -> TASK_2
 
+cd ..  == until go to main branch
 git checkout -b <branch name> = creates new branch and switch to it
-
+git add . = add folder to git
+git status  = git status 
+git commit -m "first commit" = commiting
+git push --all  = pushing code
  
 
+Task 3 :
+create a new PR{pull request} - and merge it to the main branch
+REPO NAME -> TASK_3
+
+
+git pull origin master
